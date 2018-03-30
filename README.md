@@ -75,6 +75,32 @@ or OkHttp Sync Backend
   val iotaClient = new IotaClient(customApiBackend = Some(OkHttpBackend()))
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Switching API Backends is that simple...
 
 ---
